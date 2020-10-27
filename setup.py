@@ -43,7 +43,7 @@ install_requires = [
     'gplaycli==3.26',
     'protobuf==3.11.0',
     "jellyfish==0.5.6",
-    'cryptography==2.6.1',
+    'cryptography==3.2',
     'androguard==3.3.5'
 ]
 
